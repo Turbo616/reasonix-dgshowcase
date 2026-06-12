@@ -1,9 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
-import { Input } from "@/components/ui/input";
-import { Search } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 interface CategoryFilterProps {
@@ -19,22 +16,8 @@ export function ProductFilters({
   lang,
   basePath,
 }: CategoryFilterProps) {
-  const searchParams = useSearchParams();
-  const currentSearch = searchParams.get("q") || "";
-
   return (
-    <div className="space-y-6">
-      {/* Search */}
-      <form method="get" className="relative">
-        <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-        <Input
-          name="q"
-          defaultValue={currentSearch}
-          placeholder={lang === "zh" ? "搜索产品..." : "Search products..."}
-          className="pl-9 bg-secondary border-border"
-        />
-      </form>
-
+    <div>
       {/* Category list */}
       <div>
         <h3 className="text-sm font-semibold text-gold mb-3">
