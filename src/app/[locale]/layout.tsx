@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { CookieBanner } from "@/components/layout/CookieBanner";
 import "../globals.css";
+
+export const dynamic = "force-static";
 
 export const metadata: Metadata = {
   title: {
@@ -72,6 +73,10 @@ export const metadata: Metadata = {
   },
 };
 
+export function generateStaticParams() {
+  return [{ locale: "en" }, { locale: "zh" }];
+}
+
 export default async function LocaleLayout({
   children,
   params,
@@ -85,7 +90,12 @@ export default async function LocaleLayout({
     notFound();
   }
 
-  const messages = await getMessages();
+  let messages;
+  if (locale === "zh") {
+    messages = (await import("@/messages/zh.json")).default;
+  } else {
+    messages = (await import("@/messages/en.json")).default;
+  }
 
   return (
     <html lang={locale} className="h-full antialiased">
