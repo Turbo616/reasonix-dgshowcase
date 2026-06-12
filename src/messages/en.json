@@ -1,0 +1,171 @@
+{
+  "common": {
+    "siteName": "DG Display Showcase",
+    "tagline": "Custom Display Showcase Solution & Luxury Retail Store Build-Out",
+    "findSolution": "FIND YOUR SOLUTION",
+    "readMore": "read more",
+    "sendInquiry": "SEND INQUIRY NOW",
+    "getInTouch": "Get in touch with us",
+    "contactUs": "Contact us"
+  },
+  "nav": {
+    "home": "Home",
+    "project": "Project",
+    "solution": "Solution",
+    "products": "Products",
+    "about": "About us",
+    "resources": "Resources",
+    "contact": "Contact us",
+    "jewelryWatchProjects": "Jewelry & Watch Projects",
+    "perfumeProjects": "Perfume Projects",
+    "museumProjects": "Museum Projects",
+    "readyToShip": "Ready to ship",
+    "jewelryShowcase": "Jewelry Showcase",
+    "watchShowcase": "Watch Showcase",
+    "perfumeShowcase": "Perfume Showcase",
+    "museumShowcase": "Museum Showcase",
+    "luxuryShowcase": "Luxury Showcase",
+    "opticalShowcase": "Optical Showcase",
+    "vipRoomFurniture": "VIP Room Furniture",
+    "jewelryDisplayProps": "Jewelry Display Props",
+    "brandStory": "Brand Story",
+    "companyProfile": "Company Profile",
+    "advantage": "Advantage",
+    "productionUpdates": "Production Updates",
+    "sustainability": "Sustainability",
+    "expertise": "Expertise",
+    "testimonial": "Testimonial",
+    "exhibition": "Exhibition",
+    "companyNews": "Company News",
+    "industryArticles": "Industry Articles",
+    "faq": "FAQ",
+    "selectLanguage": "English"
+  },
+  "home": {
+    "hero": {
+      "title": "Custom Display Showcase Solution & Luxury Retail Store Build-Out",
+      "subtitle": "For over 27 years, DG Display Showcase has crafted custom showcase display for luxury jewelry, perfume, watches, retail, and museums.",
+      "description": "We deliver end-to-end solutions—from design and production to installation—crafting immersive experiences that elevate brand value and deepen customer engagement.",
+      "cta": "FIND YOUR SOLUTION"
+    },
+    "jewelrySection": {
+      "title": "WHERE LIGHT MEETS LEGACY",
+      "subtitle": "High-end Jewelry Shop Interior Design & Custom Luxury Showcase",
+      "description": "We create immersive environments for luxury jewelry. Using precise optical engineering and intentional spatial design, we present each piece in its most compelling light—turning display into an experience of exceptional value."
+    },
+    "perfumeSection": {
+      "title": "AN OLFACTORY JOURNEY",
+      "subtitle": "Perfume Showcase Design & Store Interior Design",
+      "description": "We fuse scent narrative with visual storytelling to create immersive brand atmospheres. Our designs—through environmental artistry, evocative lighting, and intuitive circulation—transform perfume displays into unforgettable sensory galleries."
+    },
+    "museumSection": {
+      "title": "NARRATIVE GUARDIANS",
+      "subtitle": "Museum Display Case Design",
+      "description": "We are storytellers focused on the artifact. By integrating climate control, advanced anti-glare systems, and narrative design, we balance heritage preservation with engaging modern exhibition."
+    },
+    "modularSection": {
+      "title": "THE STAGE FOR LUXURY",
+      "subtitle": "Modular Showcase System Design for Luxury Retail Brands",
+      "description": "We move beyond traditional displays. Our modular systems and scenographic storytelling form dynamic brand spaces that can be continually updated, constantly elevating brand value."
+    },
+    "capabilities": {
+      "title": "Professional Custom Design Capabilities",
+      "subtitle": "DG Display Showcase – Precision-Crafted Brand Elevation",
+      "description": "We merge aesthetic vision with brand DNA and functional intelligence to create deeply immersive and expressive retail environments. We rigorously select premium global materials and craft a unique system for each industry, ensuring textures and details that perfectly reflect brand identity.",
+      "cta": "START YOUR CUSTOM PROJECT"
+    },
+    "features": {
+      "title": "Create immersive retail experiences",
+      "material": "Premium Materials & Luxury Finishes",
+      "brand": "Ensure flawless brand consistency",
+      "delivery": "Seamless Delivery from Design to Installation"
+    },
+    "cases": {
+      "title": "Successful Customer Cases",
+      "description": "With extensive international project experience of custom showcase display, DG Display Showcase Manufacturers ensures seamless global execution—from design detailing and secure packing to overseas coordination and assembly."
+    },
+    "about": {
+      "title": "About DG Display Showcase",
+      "description": "In the world of high-end jewelry, luxury retail, and museums, a display is more than just a container — it's the first touch point of brand storytelling and customer trust. For over 27 years, DG Display Showcase Manufacturers has been committed to one mission: solving three critical challenges for our clients — display aesthetics, execution reliability, and trust-building.",
+      "showroom": "Product Showroom",
+      "manufacturing": "Manufacturing Center",
+      "projectsPerYear": "Custom Projects/Year",
+      "team": "Artisan Team",
+      "equipment": "Automated Equipment",
+      "cta": "More about DG Display Showcase",
+      "statsUnit1": "sq ft",
+      "statsUnit2": "sq ft",
+      "statsUnit3": "+",
+      "statsUnit4": "+",
+      "statsUnit5": "+"
+    },
+    "brands": {
+      "title": "Brands That Trust Us"
+    },
+    "news": {
+      "title": "Our Latest News And Information",
+      "description": "Always pay attention to DG dynamics, so that DG continues to quickly create value for you, win in the starting line. To choose DG Display Showcase is to choose more than a display - it's to choose a partner who understands your brand, your customers, and the power of space to inspire."
+    },
+    "contact": {
+      "title": "Get in touch with us",
+      "description": "Are you planning to design your project but don't know how to shape it? Leave your information for immediate consultation.",
+      "name": "name",
+      "email": "email",
+      "phone": "Phone/WhatsApp",
+      "company": "company name",
+      "service": "Service Selection",
+      "attachment": "attachment",
+      "content": "content",
+      "submit": "send inquiry now",
+      "serviceOptions": {
+        "newStore": "New Store Opening (Complete Store Design & Manufacturing)",
+        "renovation": "Store Renovation (Upgrading & Transformation)",
+        "purchaseOnly": "Display Case Purchase Only",
+        "designOnly": "Design Services Only"
+      }
+    }
+  },
+  "footer": {
+    "aboutStory": "DG display showcase is one of the world's leading display showcase manufacturers and solution providers for custom commercial environment. And our industry experience dates back to 1999s. Our main products include Jewelry Showcase, Museum Showcase, Luxury Showcase, Watch Showcase, Perfume Showcase, etc. We have advanced equipment and technical support. We can well meet the various requirements of customers.",
+    "serviceTeam": "Professional service team",
+    "serviceTeamDesc": "Over 300 employees work for DG, which boasts science and technology. Especially, some employees have more than ten years' experience in this field",
+    "productionTeam": "OUR PRODUCTION TEAM",
+    "productionTeamDesc": "Each category has an independent production team, specializing in the production of technology. Senior engineer to control and optimize the process.",
+    "designTeam": "THE DESIGNER TEAM",
+    "designTeamDesc": "DG with an independent design and development team can provide customers with independent, innovative, and non-popular design services according to customer requirements.",
+    "salesTeam": "THE SALES TEAM",
+    "salesTeamDesc": "From the customer demand to the project control, pre-communication, project design, factory manufacturing, maintenance, each step by the excellent account manager.",
+    "howWeDo": "How We Do It Meet And Define Global",
+    "howWeDoDesc": "The first thing we do is meeting with our clients and talk through their goals on a future project. During this meeting, feel free to communicate your ideas and ask lots of questions.",
+    "quickLinks": "Quick links",
+    "chinaMarketing": "China Marketing Center (Showroom):",
+    "chinaManufacturing": "China Manufacturing Center:",
+    "marketingAddress": "9th Floor (Full Floor), Zhihui International Building, Taiping Town, Conghua District, Guangzhou",
+    "manufacturingAddress": "Dinggui Industrial Park, Taiping Town, Conghua District, Guangzhou",
+    "customerService": "Customer service",
+    "phone": "Telephone: +86 13610079233",
+    "whatsapp": "WhatsApp: +86 13610079233",
+    "email1": "E-mail: sales@degreefurniture.com",
+    "email2": "E-mail: dgshowcase@degreefurniture.com",
+    "followUs": "Follow us",
+    "copyright": "Copyright © Guangzhou DG Furniture Co., Ltd.",
+    "sitemap": "Sitemap",
+    "privacy": "privacy policy",
+    "contactForm": {
+      "title": "Contact us",
+      "description": "Are you planning to design your project but don't know how to shape it? Leave your information for immediate consultation.",
+      "name": "name",
+      "email": "email",
+      "phone": "Phone/ WhatsApp",
+      "content": "content",
+      "submit": "send inquiry now"
+    }
+  },
+  "cookie": {
+    "title": "We use cookies",
+    "description": "We use cookies to ensure that we give you the best experience on and off our website. please review our privacy policy",
+    "reject": "Reject",
+    "settings": "Cookie Settings",
+    "agree": "Agree Now"
+  }
+}

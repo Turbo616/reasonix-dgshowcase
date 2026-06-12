@@ -1,0 +1,171 @@
+{
+  "common": {
+    "siteName": "DG 展示柜",
+    "tagline": "定制展示柜解决方案与奢侈零售店装修",
+    "findSolution": "寻找您的解决方案",
+    "readMore": "了解更多",
+    "sendInquiry": "立即发送询盘",
+    "getInTouch": "联系我们",
+    "contactUs": "联系我们"
+  },
+  "nav": {
+    "home": "首页",
+    "project": "项目案例",
+    "solution": "解决方案",
+    "products": "产品中心",
+    "about": "关于我们",
+    "resources": "资源中心",
+    "contact": "联系我们",
+    "jewelryWatchProjects": "珠宝与钟表项目",
+    "perfumeProjects": "香水项目",
+    "museumProjects": "博物馆项目",
+    "readyToShip": "现货产品",
+    "jewelryShowcase": "珠宝展柜",
+    "watchShowcase": "手表展柜",
+    "perfumeShowcase": "香水展柜",
+    "museumShowcase": "博物馆展柜",
+    "luxuryShowcase": "奢侈品展柜",
+    "opticalShowcase": "眼镜展柜",
+    "vipRoomFurniture": "贵宾室家具",
+    "jewelryDisplayProps": "珠宝陈列道具",
+    "brandStory": "品牌故事",
+    "companyProfile": "公司简介",
+    "advantage": "我们的优势",
+    "productionUpdates": "生产动态",
+    "sustainability": "可持续发展",
+    "expertise": "专业能力",
+    "testimonial": "客户评价",
+    "exhibition": "展会活动",
+    "companyNews": "公司新闻",
+    "industryArticles": "行业文章",
+    "faq": "常见问题",
+    "selectLanguage": "中文"
+  },
+  "home": {
+    "hero": {
+      "title": "定制展示柜解决方案与奢侈零售店装修",
+      "subtitle": "27年来，DG展示柜一直为奢侈珠宝、香水、手表、零售和博物馆定制展示柜。",
+      "description": "我们提供从设计、生产到安装的端到端解决方案，打造沉浸式体验，提升品牌价值，深化客户互动。",
+      "cta": "寻找您的解决方案"
+    },
+    "jewelrySection": {
+      "title": "当光线遇见传承",
+      "subtitle": "高端珠宝店室内设计与定制奢华展柜",
+      "description": "我们为奢侈珠宝创造沉浸式环境。通过精密光学工程和精心设计的空间布局，我们将每件作品呈现于最引人注目的光线中——将展示转化为超凡价值的体验。"
+    },
+    "perfumeSection": {
+      "title": "一场嗅觉之旅",
+      "subtitle": "香水展柜设计与店内装修设计",
+      "description": "我们将香氛叙事与视觉故事相融合，打造沉浸式品牌氛围。我们的设计——通过环境艺术、引人入胜的灯光和直观的动线——将香水展示转化为难忘的感官画廊。"
+    },
+    "museumSection": {
+      "title": "叙事守护者",
+      "subtitle": "博物馆展柜设计",
+      "description": "我们是专注于文物本身的讲故事者。通过整合气候控制、先进的防眩光系统和叙事设计，我们在遗产保护与引人入胜的现代展览之间取得平衡。"
+    },
+    "modularSection": {
+      "title": "奢华的舞台",
+      "subtitle": "奢侈零售品牌的模块化展柜系统设计",
+      "description": "我们超越传统展示。我们的模块化系统和场景化叙事形成可以不断更新的动态品牌空间，持续提升品牌价值。"
+    },
+    "capabilities": {
+      "title": "专业定制设计能力",
+      "subtitle": "DG展示柜——精工打造的品牌提升",
+      "description": "我们将美学愿景与品牌基因和功能智能相融合，创造深度沉浸和富有表现力的零售环境。我们严格甄选全球优质材料，为每个行业打造独特的系统，确保质感和细节完美体现品牌身份。",
+      "cta": "开启您的定制项目"
+    },
+    "features": {
+      "title": "打造沉浸式零售体验",
+      "material": "优质材料与奢华饰面",
+      "brand": "确保完美品牌一致性",
+      "delivery": "从设计到安装的无缝交付"
+    },
+    "cases": {
+      "title": "成功客户案例",
+      "description": "凭借丰富的国际项目经验，DG展示柜制造商确保全球无缝执行——从设计细节、安全包装到海外协调与组装。"
+    },
+    "about": {
+      "title": "关于DG展示柜",
+      "description": "在高端珠宝、奢侈零售和博物馆的世界里，展柜不仅仅是一个容器——它是品牌故事叙述和客户信任的第一个接触点。27年来，DG展示柜制造商一直致力于一个使命：为客户解决三个关键挑战——展示美学、执行可靠性和信任建立。",
+      "showroom": "产品展厅",
+      "manufacturing": "制造中心",
+      "projectsPerYear": "年度定制项目",
+      "team": "工匠团队",
+      "equipment": "自动化设备",
+      "cta": "了解更多关于DG展示柜",
+      "statsUnit1": "平方英尺",
+      "statsUnit2": "平方英尺",
+      "statsUnit3": "+",
+      "statsUnit4": "+",
+      "statsUnit5": "+"
+    },
+    "brands": {
+      "title": "信任我们的品牌"
+    },
+    "news": {
+      "title": "最新新闻与资讯",
+      "description": "时刻关注DG动态，让DG持续为您快速创造价值，赢在起跑线上。选择DG展示柜不仅仅是选择一个展柜——更是选择一个理解您的品牌、您的客户以及空间启发力量的合作伙伴。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "您正在规划您的项目但不知道如何落地？留下您的信息，立即获取咨询。",
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话/WhatsApp",
+      "company": "公司名称",
+      "service": "服务选择",
+      "attachment": "附件",
+      "content": "内容",
+      "submit": "立即发送询盘",
+      "serviceOptions": {
+        "newStore": "新店开业（完整店面设计与制造）",
+        "renovation": "店面改造（升级与翻新）",
+        "purchaseOnly": "仅购买展示柜",
+        "designOnly": "仅设计服务"
+      }
+    }
+  },
+  "footer": {
+    "aboutStory": "DG展示柜是全球领先的展示柜制造商和定制商业环境解决方案供应商之一。我们的行业经验可追溯到1999年。主要产品包括珠宝展柜、博物馆展柜、奢侈品展柜、手表展柜、香水展柜等。我们拥有先进的设备和技术支持，能很好地满足客户的各项要求。",
+    "serviceTeam": "专业服务团队",
+    "serviceTeamDesc": "超过300名员工为DG工作，拥有科学技术。特别是，一些员工在该领域拥有十多年的经验。",
+    "productionTeam": "我们的生产团队",
+    "productionTeamDesc": "每个类别都有独立的生产团队，专注于生产技术。高级工程师控制并优化流程。",
+    "designTeam": "设计团队",
+    "designTeamDesc": "DG拥有独立的设计开发团队，可根据客户要求提供独立、创新、非大众化的设计服务。",
+    "salesTeam": "销售团队",
+    "salesTeamDesc": "从客户需求到项目管控、前期沟通、项目设计、工厂制造、维护，每一步都由优秀的客户经理为您服务。",
+    "howWeDo": "我们如何做到定义全球标准",
+    "howWeDoDesc": "我们做的第一件事是与客户会面，讨论他们未来项目的目标。在这次会议上，随时沟通您的想法并提出大量问题。",
+    "quickLinks": "快速链接",
+    "chinaMarketing": "中国营销中心（展厅）：",
+    "chinaManufacturing": "中国制造中心：",
+    "marketingAddress": "广州市从化区太平镇智汇国际大厦9楼（全层）",
+    "manufacturingAddress": "广州市从化区太平镇鼎贵工业园",
+    "customerService": "客户服务",
+    "phone": "电话：+86 13610079233",
+    "whatsapp": "WhatsApp：+86 13610079233",
+    "email1": "邮箱：sales@degreefurniture.com",
+    "email2": "邮箱：dgshowcase@degreefurniture.com",
+    "followUs": "关注我们",
+    "copyright": "版权所有 © 广州鼎贵家具有限公司",
+    "sitemap": "网站地图",
+    "privacy": "隐私政策",
+    "contactForm": {
+      "title": "联系我们",
+      "description": "您正在规划您的项目但不知道如何落地？留下您的信息，立即获取咨询。",
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话/ WhatsApp",
+      "content": "内容",
+      "submit": "立即发送询盘"
+    }
+  },
+  "cookie": {
+    "title": "我们使用Cookie",
+    "description": "我们使用Cookie以确保在我们的网站内外为您提供最佳体验。请查看我们的隐私政策。",
+    "reject": "拒绝",
+    "settings": "Cookie设置",
+    "agree": "同意"
+  }
+}
